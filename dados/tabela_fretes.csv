@@ -1,0 +1,281 @@
+origem,origem_nome,destino,destino_nome,km,perfil,valor_tabela
+H01,Polo Norte,H02,Polo Sul,181,Utilitário,512.14
+H01,Polo Norte,H02,Polo Sul,181,VUC,624.25
+H01,Polo Norte,H02,Polo Sul,181,Toco,792.11
+H01,Polo Norte,H02,Polo Sul,181,Truck,986.45
+H01,Polo Norte,H02,Polo Sul,181,Carreta,1262.33
+H01,Polo Norte,H03,Porto Seco,387,Utilitário,909.15
+H01,Polo Norte,H03,Porto Seco,387,VUC,1176.67
+H01,Polo Norte,H03,Porto Seco,387,Toco,1580.06
+H01,Polo Norte,H03,Porto Seco,387,Truck,2016.99
+H01,Polo Norte,H03,Porto Seco,387,Carreta,2592.61
+H01,Polo Norte,H04,Entreposto Leste,574,Utilitário,1385.63
+H01,Polo Norte,H04,Entreposto Leste,574,VUC,1729.38
+H01,Polo Norte,H04,Entreposto Leste,574,Toco,2098.85
+H01,Polo Norte,H04,Entreposto Leste,574,Truck,2774.74
+H01,Polo Norte,H04,Entreposto Leste,574,Carreta,3699.25
+H01,Polo Norte,H05,Centro Oeste,584,Utilitário,1320.91
+H01,Polo Norte,H05,Centro Oeste,584,VUC,1748.24
+H01,Polo Norte,H05,Centro Oeste,584,Toco,2301.55
+H01,Polo Norte,H05,Centro Oeste,584,Truck,2920.79
+H01,Polo Norte,H05,Centro Oeste,584,Carreta,3768.83
+H01,Polo Norte,H06,Hub Litoral,722,Utilitário,1564.14
+H01,Polo Norte,H06,Hub Litoral,722,VUC,2184.23
+H01,Polo Norte,H06,Hub Litoral,722,Toco,2683.73
+H01,Polo Norte,H06,Hub Litoral,722,Truck,3487.01
+H01,Polo Norte,H06,Hub Litoral,722,Carreta,4551.09
+H01,Polo Norte,H07,Hub Planalto,165,Utilitário,469.47
+H01,Polo Norte,H07,Hub Planalto,165,VUC,581.93
+H01,Polo Norte,H07,Hub Planalto,165,Toco,691.22
+H01,Polo Norte,H07,Hub Planalto,165,Truck,895.99
+H01,Polo Norte,H07,Hub Planalto,165,Carreta,1168.59
+H01,Polo Norte,H08,Terminal Rio Doce,288,Utilitário,730.86
+H01,Polo Norte,H08,Terminal Rio Doce,288,VUC,925.68
+H01,Polo Norte,H08,Terminal Rio Doce,288,Toco,1200.01
+H01,Polo Norte,H08,Terminal Rio Doce,288,Truck,1440.93
+H01,Polo Norte,H08,Terminal Rio Doce,288,Carreta,1891.31
+H02,Polo Sul,H01,Polo Norte,181,Utilitário,516.3
+H02,Polo Sul,H01,Polo Norte,181,VUC,625.75
+H02,Polo Sul,H01,Polo Norte,181,Toco,772.77
+H02,Polo Sul,H01,Polo Norte,181,Truck,930.32
+H02,Polo Sul,H01,Polo Norte,181,Carreta,1211.29
+H02,Polo Sul,H03,Porto Seco,675,Utilitário,1484.91
+H02,Polo Sul,H03,Porto Seco,675,VUC,1924.74
+H02,Polo Sul,H03,Porto Seco,675,Toco,2599.73
+H02,Polo Sul,H03,Porto Seco,675,Truck,3415.22
+H02,Polo Sul,H03,Porto Seco,675,Carreta,4138.68
+H02,Polo Sul,H04,Entreposto Leste,696,Utilitário,1599.48
+H02,Polo Sul,H04,Entreposto Leste,696,VUC,2062.96
+H02,Polo Sul,H04,Entreposto Leste,696,Toco,2621.12
+H02,Polo Sul,H04,Entreposto Leste,696,Truck,3302.53
+H02,Polo Sul,H04,Entreposto Leste,696,Carreta,4601.73
+H02,Polo Sul,H05,Centro Oeste,629,Utilitário,1457.63
+H02,Polo Sul,H05,Centro Oeste,629,VUC,1873.59
+H02,Polo Sul,H05,Centro Oeste,629,Toco,2377.47
+H02,Polo Sul,H05,Centro Oeste,629,Truck,3203.26
+H02,Polo Sul,H05,Centro Oeste,629,Carreta,4209.81
+H02,Polo Sul,H06,Hub Litoral,490,Utilitário,1153.7
+H02,Polo Sul,H06,Hub Litoral,490,VUC,1500.2
+H02,Polo Sul,H06,Hub Litoral,490,Toco,1913.94
+H02,Polo Sul,H06,Hub Litoral,490,Truck,2378.7
+H02,Polo Sul,H06,Hub Litoral,490,Carreta,3249.08
+H02,Polo Sul,H07,Hub Planalto,862,Utilitário,1930.54
+H02,Polo Sul,H07,Hub Planalto,862,VUC,2528.51
+H02,Polo Sul,H07,Hub Planalto,862,Toco,3342.5
+H02,Polo Sul,H07,Hub Planalto,862,Truck,4144.28
+H02,Polo Sul,H07,Hub Planalto,862,Carreta,5354.51
+H02,Polo Sul,H08,Terminal Rio Doce,646,Utilitário,1445.27
+H02,Polo Sul,H08,Terminal Rio Doce,646,VUC,1844.35
+H02,Polo Sul,H08,Terminal Rio Doce,646,Toco,2481.8
+H02,Polo Sul,H08,Terminal Rio Doce,646,Truck,3185.73
+H02,Polo Sul,H08,Terminal Rio Doce,646,Carreta,4108.47
+H03,Porto Seco,H01,Polo Norte,387,Utilitário,934.56
+H03,Porto Seco,H01,Polo Norte,387,VUC,1202.46
+H03,Porto Seco,H01,Polo Norte,387,Toco,1571.92
+H03,Porto Seco,H01,Polo Norte,387,Truck,1895.27
+H03,Porto Seco,H01,Polo Norte,387,Carreta,2515.94
+H03,Porto Seco,H02,Polo Sul,675,Utilitário,1539.1
+H03,Porto Seco,H02,Polo Sul,675,VUC,2071.65
+H03,Porto Seco,H02,Polo Sul,675,Toco,2624.83
+H03,Porto Seco,H02,Polo Sul,675,Truck,3310.85
+H03,Porto Seco,H02,Polo Sul,675,Carreta,4475.44
+H03,Porto Seco,H04,Entreposto Leste,620,Utilitário,1465.15
+H03,Porto Seco,H04,Entreposto Leste,620,VUC,1824.17
+H03,Porto Seco,H04,Entreposto Leste,620,Toco,2445.03
+H03,Porto Seco,H04,Entreposto Leste,620,Truck,2916.97
+H03,Porto Seco,H04,Entreposto Leste,620,Carreta,4036.78
+H03,Porto Seco,H05,Centro Oeste,808,Utilitário,1865.17
+H03,Porto Seco,H05,Centro Oeste,808,VUC,2385.83
+H03,Porto Seco,H05,Centro Oeste,808,Toco,3015.11
+H03,Porto Seco,H05,Centro Oeste,808,Truck,4094.29
+H03,Porto Seco,H05,Centro Oeste,808,Carreta,5363.68
+H03,Porto Seco,H06,Hub Litoral,855,Utilitário,1976.99
+H03,Porto Seco,H06,Hub Litoral,855,VUC,2509.01
+H03,Porto Seco,H06,Hub Litoral,855,Toco,3063.89
+H03,Porto Seco,H06,Hub Litoral,855,Truck,4044.65
+H03,Porto Seco,H06,Hub Litoral,855,Carreta,5420.16
+H03,Porto Seco,H07,Hub Planalto,846,Utilitário,1824.94
+H03,Porto Seco,H07,Hub Planalto,846,VUC,2547.44
+H03,Porto Seco,H07,Hub Planalto,846,Toco,3138.59
+H03,Porto Seco,H07,Hub Planalto,846,Truck,4076.08
+H03,Porto Seco,H07,Hub Planalto,846,Carreta,5110.3
+H03,Porto Seco,H08,Terminal Rio Doce,562,Utilitário,1241.22
+H03,Porto Seco,H08,Terminal Rio Doce,562,VUC,1706.29
+H03,Porto Seco,H08,Terminal Rio Doce,562,Toco,2230.64
+H03,Porto Seco,H08,Terminal Rio Doce,562,Truck,2651.27
+H03,Porto Seco,H08,Terminal Rio Doce,562,Carreta,3706.76
+H04,Entreposto Leste,H01,Polo Norte,574,Utilitário,1295.0
+H04,Entreposto Leste,H01,Polo Norte,574,VUC,1746.66
+H04,Entreposto Leste,H01,Polo Norte,574,Toco,2238.44
+H04,Entreposto Leste,H01,Polo Norte,574,Truck,2940.92
+H04,Entreposto Leste,H01,Polo Norte,574,Carreta,3738.76
+H04,Entreposto Leste,H02,Polo Sul,696,Utilitário,1601.39
+H04,Entreposto Leste,H02,Polo Sul,696,VUC,2001.52
+H04,Entreposto Leste,H02,Polo Sul,696,Toco,2578.86
+H04,Entreposto Leste,H02,Polo Sul,696,Truck,3418.37
+H04,Entreposto Leste,H02,Polo Sul,696,Carreta,4551.51
+H04,Entreposto Leste,H03,Porto Seco,620,Utilitário,1480.58
+H04,Entreposto Leste,H03,Porto Seco,620,VUC,1854.61
+H04,Entreposto Leste,H03,Porto Seco,620,Toco,2401.21
+H04,Entreposto Leste,H03,Porto Seco,620,Truck,2927.6
+H04,Entreposto Leste,H03,Porto Seco,620,Carreta,3857.49
+H04,Entreposto Leste,H05,Centro Oeste,829,Utilitário,1876.21
+H04,Entreposto Leste,H05,Centro Oeste,829,VUC,2547.58
+H04,Entreposto Leste,H05,Centro Oeste,829,Toco,3216.61
+H04,Entreposto Leste,H05,Centro Oeste,829,Truck,4018.14
+H04,Entreposto Leste,H05,Centro Oeste,829,Carreta,5046.21
+H04,Entreposto Leste,H06,Hub Litoral,851,Utilitário,1937.22
+H04,Entreposto Leste,H06,Hub Litoral,851,VUC,2606.47
+H04,Entreposto Leste,H06,Hub Litoral,851,Toco,3270.43
+H04,Entreposto Leste,H06,Hub Litoral,851,Truck,4285.69
+H04,Entreposto Leste,H06,Hub Litoral,851,Carreta,5293.84
+H04,Entreposto Leste,H07,Hub Planalto,660,Utilitário,1493.81
+H04,Entreposto Leste,H07,Hub Planalto,660,VUC,2024.92
+H04,Entreposto Leste,H07,Hub Planalto,660,Toco,2500.76
+H04,Entreposto Leste,H07,Hub Planalto,660,Truck,3127.92
+H04,Entreposto Leste,H07,Hub Planalto,660,Carreta,4013.18
+H04,Entreposto Leste,H08,Terminal Rio Doce,511,Utilitário,1150.83
+H04,Entreposto Leste,H08,Terminal Rio Doce,511,VUC,1606.28
+H04,Entreposto Leste,H08,Terminal Rio Doce,511,Toco,1877.07
+H04,Entreposto Leste,H08,Terminal Rio Doce,511,Truck,2484.96
+H04,Entreposto Leste,H08,Terminal Rio Doce,511,Carreta,3241.76
+H05,Centro Oeste,H01,Polo Norte,584,Utilitário,1379.46
+H05,Centro Oeste,H01,Polo Norte,584,VUC,1677.66
+H05,Centro Oeste,H01,Polo Norte,584,Toco,2224.58
+H05,Centro Oeste,H01,Polo Norte,584,Truck,2817.52
+H05,Centro Oeste,H01,Polo Norte,584,Carreta,3669.71
+H05,Centro Oeste,H02,Polo Sul,629,Utilitário,1417.92
+H05,Centro Oeste,H02,Polo Sul,629,VUC,1814.52
+H05,Centro Oeste,H02,Polo Sul,629,Toco,2486.02
+H05,Centro Oeste,H02,Polo Sul,629,Truck,3097.47
+H05,Centro Oeste,H02,Polo Sul,629,Carreta,4138.72
+H05,Centro Oeste,H03,Porto Seco,808,Utilitário,1758.07
+H05,Centro Oeste,H03,Porto Seco,808,VUC,2386.84
+H05,Centro Oeste,H03,Porto Seco,808,Toco,3009.49
+H05,Centro Oeste,H03,Porto Seco,808,Truck,3855.48
+H05,Centro Oeste,H03,Porto Seco,808,Carreta,5178.8
+H05,Centro Oeste,H04,Entreposto Leste,829,Utilitário,1891.97
+H05,Centro Oeste,H04,Entreposto Leste,829,VUC,2341.27
+H05,Centro Oeste,H04,Entreposto Leste,829,Toco,3074.3
+H05,Centro Oeste,H04,Entreposto Leste,829,Truck,3897.66
+H05,Centro Oeste,H04,Entreposto Leste,829,Carreta,5476.42
+H05,Centro Oeste,H06,Hub Litoral,305,Utilitário,731.37
+H05,Centro Oeste,H06,Hub Litoral,305,VUC,977.82
+H05,Centro Oeste,H06,Hub Litoral,305,Toco,1255.22
+H05,Centro Oeste,H06,Hub Litoral,305,Truck,1546.59
+H05,Centro Oeste,H06,Hub Litoral,305,Carreta,2059.17
+H05,Centro Oeste,H07,Hub Planalto,62,Utilitário,246.14
+H05,Centro Oeste,H07,Hub Planalto,62,VUC,297.26
+H05,Centro Oeste,H07,Hub Planalto,62,Toco,351.63
+H05,Centro Oeste,H07,Hub Planalto,62,Truck,400.59
+H05,Centro Oeste,H07,Hub Planalto,62,Carreta,505.55
+H05,Centro Oeste,H08,Terminal Rio Doce,688,Utilitário,1606.04
+H05,Centro Oeste,H08,Terminal Rio Doce,688,VUC,2049.65
+H05,Centro Oeste,H08,Terminal Rio Doce,688,Toco,2709.89
+H05,Centro Oeste,H08,Terminal Rio Doce,688,Truck,3243.78
+H05,Centro Oeste,H08,Terminal Rio Doce,688,Carreta,4532.5
+H06,Hub Litoral,H01,Polo Norte,722,Utilitário,1619.52
+H06,Hub Litoral,H01,Polo Norte,722,VUC,2126.51
+H06,Hub Litoral,H01,Polo Norte,722,Toco,2696.87
+H06,Hub Litoral,H01,Polo Norte,722,Truck,3370.42
+H06,Hub Litoral,H01,Polo Norte,722,Carreta,4509.07
+H06,Hub Litoral,H02,Polo Sul,490,Utilitário,1132.95
+H06,Hub Litoral,H02,Polo Sul,490,VUC,1459.54
+H06,Hub Litoral,H02,Polo Sul,490,Toco,1883.58
+H06,Hub Litoral,H02,Polo Sul,490,Truck,2487.54
+H06,Hub Litoral,H02,Polo Sul,490,Carreta,3132.4
+H06,Hub Litoral,H03,Porto Seco,855,Utilitário,1909.7
+H06,Hub Litoral,H03,Porto Seco,855,VUC,2472.29
+H06,Hub Litoral,H03,Porto Seco,855,Toco,3192.48
+H06,Hub Litoral,H03,Porto Seco,855,Truck,3985.84
+H06,Hub Litoral,H03,Porto Seco,855,Carreta,5578.23
+H06,Hub Litoral,H04,Entreposto Leste,851,Utilitário,1960.13
+H06,Hub Litoral,H04,Entreposto Leste,851,VUC,2578.13
+H06,Hub Litoral,H04,Entreposto Leste,851,Toco,3290.17
+H06,Hub Litoral,H04,Entreposto Leste,851,Truck,4012.24
+H06,Hub Litoral,H04,Entreposto Leste,851,Carreta,5635.57
+H06,Hub Litoral,H05,Centro Oeste,305,Utilitário,784.75
+H06,Hub Litoral,H05,Centro Oeste,305,VUC,986.44
+H06,Hub Litoral,H05,Centro Oeste,305,Toco,1207.9
+H06,Hub Litoral,H05,Centro Oeste,305,Truck,1594.11
+H06,Hub Litoral,H05,Centro Oeste,305,Carreta,2077.09
+H06,Hub Litoral,H07,Hub Planalto,142,Utilitário,423.28
+H06,Hub Litoral,H07,Hub Planalto,142,VUC,535.94
+H06,Hub Litoral,H07,Hub Planalto,142,Toco,623.63
+H06,Hub Litoral,H07,Hub Planalto,142,Truck,764.49
+H06,Hub Litoral,H07,Hub Planalto,142,Carreta,1005.86
+H06,Hub Litoral,H08,Terminal Rio Doce,173,Utilitário,485.93
+H06,Hub Litoral,H08,Terminal Rio Doce,173,VUC,606.26
+H06,Hub Litoral,H08,Terminal Rio Doce,173,Toco,718.49
+H06,Hub Litoral,H08,Terminal Rio Doce,173,Truck,950.66
+H06,Hub Litoral,H08,Terminal Rio Doce,173,Carreta,1198.59
+H07,Hub Planalto,H01,Polo Norte,165,Utilitário,468.86
+H07,Hub Planalto,H01,Polo Norte,165,VUC,568.81
+H07,Hub Planalto,H01,Polo Norte,165,Toco,701.81
+H07,Hub Planalto,H01,Polo Norte,165,Truck,877.52
+H07,Hub Planalto,H01,Polo Norte,165,Carreta,1148.7
+H07,Hub Planalto,H02,Polo Sul,862,Utilitário,1858.06
+H07,Hub Planalto,H02,Polo Sul,862,VUC,2476.57
+H07,Hub Planalto,H02,Polo Sul,862,Toco,3364.36
+H07,Hub Planalto,H02,Polo Sul,862,Truck,4038.22
+H07,Hub Planalto,H02,Polo Sul,862,Carreta,5563.03
+H07,Hub Planalto,H03,Porto Seco,846,Utilitário,1942.63
+H07,Hub Planalto,H03,Porto Seco,846,VUC,2541.47
+H07,Hub Planalto,H03,Porto Seco,846,Toco,3069.81
+H07,Hub Planalto,H03,Porto Seco,846,Truck,4147.93
+H07,Hub Planalto,H03,Porto Seco,846,Carreta,5368.68
+H07,Hub Planalto,H04,Entreposto Leste,660,Utilitário,1475.06
+H07,Hub Planalto,H04,Entreposto Leste,660,VUC,2030.35
+H07,Hub Planalto,H04,Entreposto Leste,660,Toco,2446.35
+H07,Hub Planalto,H04,Entreposto Leste,660,Truck,3164.49
+H07,Hub Planalto,H04,Entreposto Leste,660,Carreta,4114.14
+H07,Hub Planalto,H05,Centro Oeste,62,Utilitário,244.51
+H07,Hub Planalto,H05,Centro Oeste,62,VUC,292.07
+H07,Hub Planalto,H05,Centro Oeste,62,Toco,352.08
+H07,Hub Planalto,H05,Centro Oeste,62,Truck,419.47
+H07,Hub Planalto,H05,Centro Oeste,62,Carreta,501.11
+H07,Hub Planalto,H06,Hub Litoral,142,Utilitário,403.75
+H07,Hub Planalto,H06,Hub Litoral,142,VUC,501.55
+H07,Hub Planalto,H06,Hub Litoral,142,Toco,606.81
+H07,Hub Planalto,H06,Hub Litoral,142,Truck,762.24
+H07,Hub Planalto,H06,Hub Litoral,142,Carreta,1016.76
+H07,Hub Planalto,H08,Terminal Rio Doce,354,Utilitário,869.09
+H07,Hub Planalto,H08,Terminal Rio Doce,354,VUC,1154.43
+H07,Hub Planalto,H08,Terminal Rio Doce,354,Toco,1375.32
+H07,Hub Planalto,H08,Terminal Rio Doce,354,Truck,1830.35
+H07,Hub Planalto,H08,Terminal Rio Doce,354,Carreta,2338.34
+H08,Terminal Rio Doce,H01,Polo Norte,288,Utilitário,734.16
+H08,Terminal Rio Doce,H01,Polo Norte,288,VUC,935.69
+H08,Terminal Rio Doce,H01,Polo Norte,288,Toco,1200.84
+H08,Terminal Rio Doce,H01,Polo Norte,288,Truck,1448.7
+H08,Terminal Rio Doce,H01,Polo Norte,288,Carreta,1854.82
+H08,Terminal Rio Doce,H02,Polo Sul,646,Utilitário,1471.54
+H08,Terminal Rio Doce,H02,Polo Sul,646,VUC,2015.46
+H08,Terminal Rio Doce,H02,Polo Sul,646,Toco,2533.6
+H08,Terminal Rio Doce,H02,Polo Sul,646,Truck,3212.81
+H08,Terminal Rio Doce,H02,Polo Sul,646,Carreta,4269.91
+H08,Terminal Rio Doce,H03,Porto Seco,562,Utilitário,1321.61
+H08,Terminal Rio Doce,H03,Porto Seco,562,VUC,1760.28
+H08,Terminal Rio Doce,H03,Porto Seco,562,Toco,2120.75
+H08,Terminal Rio Doce,H03,Porto Seco,562,Truck,2879.49
+H08,Terminal Rio Doce,H03,Porto Seco,562,Carreta,3554.34
+H08,Terminal Rio Doce,H04,Entreposto Leste,511,Utilitário,1218.36
+H08,Terminal Rio Doce,H04,Entreposto Leste,511,VUC,1541.75
+H08,Terminal Rio Doce,H04,Entreposto Leste,511,Toco,1871.97
+H08,Terminal Rio Doce,H04,Entreposto Leste,511,Truck,2568.61
+H08,Terminal Rio Doce,H04,Entreposto Leste,511,Carreta,3221.53
+H08,Terminal Rio Doce,H05,Centro Oeste,688,Utilitário,1631.01
+H08,Terminal Rio Doce,H05,Centro Oeste,688,VUC,2104.16
+H08,Terminal Rio Doce,H05,Centro Oeste,688,Toco,2503.26
+H08,Terminal Rio Doce,H05,Centro Oeste,688,Truck,3440.23
+H08,Terminal Rio Doce,H05,Centro Oeste,688,Carreta,4308.34
+H08,Terminal Rio Doce,H06,Hub Litoral,173,Utilitário,497.94
+H08,Terminal Rio Doce,H06,Hub Litoral,173,VUC,606.44
+H08,Terminal Rio Doce,H06,Hub Litoral,173,Toco,732.99
+H08,Terminal Rio Doce,H06,Hub Litoral,173,Truck,938.05
+H08,Terminal Rio Doce,H06,Hub Litoral,173,Carreta,1216.38
+H08,Terminal Rio Doce,H07,Hub Planalto,354,Utilitário,834.6
+H08,Terminal Rio Doce,H07,Hub Planalto,354,VUC,1122.99
+H08,Terminal Rio Doce,H07,Hub Planalto,354,Toco,1345.75
+H08,Terminal Rio Doce,H07,Hub Planalto,354,Truck,1721.52
+H08,Terminal Rio Doce,H07,Hub Planalto,354,Carreta,2282.76
